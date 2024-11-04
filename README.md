@@ -7,7 +7,7 @@ Explore my portfolio of projects, showcasing my skills in data analysis, machine
 
 [View Projects](projects.md)
 
-- [Data Science Blog](https://medium.com/@alenjose59)
+[Data Science Blog](https://medium.com/@alenjose59)
 
 ## Education
 - **M.Sc. in Data Science and Analytics**  
@@ -25,7 +25,7 @@ Explore my portfolio of projects, showcasing my skills in data analysis, machine
 - Built live data dashboards in Power BI and Jupyter, improving visualization and interpretation of key metrics.
 - Collaborated in teams to achieve project goals, refining communication and time management skills.
 
-## Publications & Thesis
+## Thesis
 - Master's Thesis: **Impact of Social Media on Public Opinion**  
   Explored how social media influences public attitudes, adhering to ethical guidelines in data usage. Used advanced analysis to gain insights into cultural attitudes and sentiment patterns.
 
