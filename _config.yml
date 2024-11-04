@@ -5,7 +5,7 @@ description: |
     img[src*="passport_size_photo.png"] {
       width: 50%; /* Reduces size */
       height: auto;
-      border-radius: 50%; /* Makes image round */
+      # border-radius: 50%; /* Makes image round */
       display: block;
       margin: 0;
       float: left;
