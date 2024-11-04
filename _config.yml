@@ -10,9 +10,9 @@ description: |
       margin: 0;
       float: left;
     }
-    /* Clear float for content following the image */
-    .clear-float {
-      clear: both;
+    /* Hide the "View my GitHub" link */
+    a[href*="github.com"] {
+      display: none;
     }
   </style>
 theme: jekyll-theme-minimal
