@@ -31,3 +31,9 @@ Explore my portfolio of projects, showcasing my skills in data analysis, machine
 - **Google Data Analytics Professional Certificate**  
   Gained foundational skills in data cleaning, analysis, and visualization. Proficient in tools like **SQL**, **Python**, **Tableau**, and **Excel**.
 
+
+<div class="clear-float">
+  <!-- The GitHub or other links displayed here will now appear below the image -->
+</div>
+
+
