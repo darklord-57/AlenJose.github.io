@@ -5,7 +5,7 @@
 ## Education
 - **M.Sc. in Data Science and Analytics**  
   University of Hertfordshire, Hatfield, UK (_2021 - 2023_)  
-  Graduated with Distinction
+  Graduated with **Distinction**
 
 - **B.Tech in Computer Science**  
   Federal Institute of Science and Technology, Kochi, India (_2016 - 2020_)  
