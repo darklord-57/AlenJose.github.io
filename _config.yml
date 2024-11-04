@@ -1,5 +1,15 @@
 title: Alen Jose
 logo: /assets/passport_size_photo%20copy.jpg
+description: |
+  <style>
+    img[src*="passport_size_photo copy.jpg"] {
+      width: 50%; /* Reduces size */
+      height: auto;
+      border-radius: 50%; /* Makes image round */
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
 #description: text below image
 # show_downloads: true
 theme: jekyll-theme-minimal
