@@ -10,7 +10,6 @@ This dashboard provides a snapshot of key metrics for sales and customer perform
 
 [Git Link](https://github.com/darklord-57/darklord/tree/main/visualization/tableau/project_sales)
 
-[More about Project](https://public.tableau.com/app/profile/darklord59/viz/sales_tableau_analysis/CustomerDashboard)  
 
 
 
