@@ -1,1 +1,8 @@
+.logo {
+  width: 50%; /* Reduces size by 50% */
+  height: auto;
+  border-radius: 50%; /* Makes the image round */
+  display: block;
+  margin: 0 auto; /* Centers the image */
+}
 
