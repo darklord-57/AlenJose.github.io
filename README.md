@@ -2,6 +2,11 @@
 
 #### Technical Skills: Python, SQL, Power BI, Advanced Excel, VBA, Data Cleaning, Data Visualization
 
+## Projects
+Explore my portfolio of projects, showcasing my skills in data analysis, machine learning, and data visualization.
+
+[View Projects](projects.md)
+
 ## Education
 - **M.Sc. in Data Science and Analytics**  
   University of Hertfordshire, Hatfield, UK (_2021 - 2023_)  
@@ -17,11 +22,6 @@
 - Leveraged Python for data analytics, creating impactful data insights and reports.
 - Built live data dashboards in Power BI and Jupyter, improving visualization and interpretation of key metrics.
 - Collaborated in teams to achieve project goals, refining communication and time management skills.
-
-## Projects
-Explore my portfolio of projects, showcasing my skills in data analysis, machine learning, and data visualization.
-
-[View Projects](projects.md)
 
 ## Publications & Thesis
 - Master's Thesis: **Impact of Social Media on Public Opinion**  
