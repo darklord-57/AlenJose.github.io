@@ -21,7 +21,7 @@ This dashboard provides a snapshot of key metrics for sales and customer perform
 **Description:**  
 A brief overview of the project, highlighting the purpose, approach, and unique aspects of this project.
 
-[More about Project Name 2](link_to_detailed_project_page_or_repo)
+[More about Project Name 2](https://github.com/darklord-57/darklord/tree/main/visualization/tableau/project_sales)
 
 ---
 
