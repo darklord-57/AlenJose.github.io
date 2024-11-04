@@ -17,11 +17,13 @@ This dashboard provides a snapshot of key metrics for sales and customer perform
 
 ---
 
-## Project Name 2
+## Social Media Sentiment Analysis on Cultural Perceptions
 **Description:**  
-A brief overview of the project, highlighting the purpose, approach, and unique aspects of this project.
+This project explores the influence of social media on cultural perceptions and attitudes by analyzing tweets on trending social issues. Utilizing various machine learning models, including LSTM and pre-trained models like BERT and RoBERTa, sentiment analysis was conducted on a dataset of 1.6 million tweets. Key focus areas included hyperparameter tuning, ethical considerations, and model optimization to accurately classify sentiments with an achieved accuracy of 82%.
 
-[More about Project Name 2](https://github.com/darklord-57/darklord/tree/main/visualization/tableau/project_sales)
+[GitHub Link](https://bit.ly/4fbUgh8)
+
+[Project Report](https://bit.ly/48CgTsy)
 
 ---
 
