@@ -19,14 +19,9 @@
 - Collaborated in teams to achieve project goals, refining communication and time management skills.
 
 ## Projects
-### Sentiment Analysis of Social Media Data
-- Conducted Twitter data analysis using **Python** to explore public sentiment on various topics.
-- Achieved 82% accuracy in sentiment classification, surpassing initial benchmarks.
-- Utilized tools like Jupyter Notebook and Google Colab for efficient computations, enhancing decision-making speed and accuracy.
+Explore my portfolio of projects, showcasing my skills in data analysis, machine learning, and data visualization.
 
-### Google Data Analytics Certification Projects
-- Completed hands-on projects covering **data cleaning**, **analysis**, and **visualization**.
-- Demonstrated proficiency in **spreadsheets**, **SQL**, **Python**, and **Tableau** for data interpretation and insight communication.
+[View Projects](projects.md)
 
 ## Publications & Thesis
 - Master's Thesis: **Impact of Social Media on Public Opinion**  
