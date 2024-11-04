@@ -4,11 +4,11 @@ Welcome to my projects portfolio! Below are some of the key projects I've worked
 
 ---
 
-## Project Name 1
+## Sales and Customer Analytics Dashboard 
 **Description:**  
-A brief overview of the project, describing the goals, tools, or methods used, and any interesting challenges or results.
+This dashboard provides a snapshot of key metrics for sales and customer performance between the years (2020-2023), including total sales, profit, quantity, and customer orders. It highlights trends over time, top-performing months, and breakdowns by subcategories and customer profitability, allowing for quick insights into sales growth and customer engagement.
 
-[More about Project Name 1](link_to_detailed_project_page_or_repo)
+[More about Project](https://public.tableau.com/app/profile/darklord59/viz/sales_tableau_analysis/CustomerDashboard)
 
 ---
 
