@@ -7,6 +7,8 @@ Explore my portfolio of projects, showcasing my skills in data analysis, machine
 
 [View Projects](projects.md)
 
+- [Data Science Blog](https://medium.com/@alenjose59)
+
 ## Education
 - **M.Sc. in Data Science and Analytics**  
   University of Hertfordshire, Hatfield, UK (_2021 - 2023_)  
