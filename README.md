@@ -7,7 +7,7 @@ Explore my portfolio of projects, showcasing my skills in data analysis, machine
 
 [View Projects](projects.md)
 
-[Data Science Blog](https://medium.com/@alenjose59)
+[Medium Blog](https://medium.com/@alenjose59)
 
 ## Education
 - **M.Sc. in Data Science and Analytics**  
