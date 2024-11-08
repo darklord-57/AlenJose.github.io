@@ -20,15 +20,15 @@ This dashboard provides a snapshot of key metrics for sales and customer perform
 
 <a href="http://bit.ly/40rywcy" target="_blank">GitHub Link</a>
 
-[More about Project](https://public.tableau.com/app/profile/darklord59/viz/sales_tableau_analysis/CustomerDashboard)  
+[View Dashboard](https://public.tableau.com/app/profile/darklord59/viz/sales_tableau_analysis/CustomerDashboard)  
 
 ---
 
-## Project Name 3
+## Layoff Data Analysis and Cleaning in SQL
 **Description:**  
-A concise summary of the project, detailing what makes it stand out and what was achieved.
+This project involved cleaning, transforming, and analyzing a dataset on company layoffs to extract meaningful insights. Key steps included removing duplicates, standardizing data formats, handling null values, and ranking companies by total layoffs per year. By using advanced SQL techniques, such as window functions and Common Table Expressions (CTEs), I identified top trends across industries and regions. The project demonstrates my ability to prepare raw data for analysis and uncover insights efficiently with SQL.
 
-[More about Project Name 3](link_to_detailed_project_page_or_repo)
+[Git Link](https://bit.ly/48Eiu0Q)
 
 ---
 
